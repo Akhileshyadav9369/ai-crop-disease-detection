@@ -1,6 +1,4 @@
-# 🌱 AI-Based Crop Disease Detection
-
-**1M1B AI for Sustainability Virtual Internship** · In collaboration with IBM SkillsBuild & AICTE
+## AI-Based Crop Disease Detection
 
 A lightweight AI prototype that helps farmers detect crop diseases early from a simple leaf
 photo — reducing crop loss, avoiding unnecessary pesticide use, and supporting sustainable
@@ -8,7 +6,7 @@ agriculture.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 > How might we use AI to detect crop diseases early so that farmers can reduce crop loss and
 > farming can become more sustainable?
@@ -17,7 +15,7 @@ Many small and marginal farmers lack timely access to agricultural experts or te
 Diseases are often noticed only after significant crop damage has occurred, leading to lost
 yield, wasted pesticide spending, and avoidable environmental harm.
 
-## 🌍 SDG Alignment
+##  SDG Alignment
 
 - **Primary:** SDG 2 — Zero Hunger
 - **Secondary:** SDG 13 — Climate Action, SDG 15 — Life on Land
@@ -36,7 +34,7 @@ yield, wasted pesticide spending, and avoidable environmental harm.
 Leaf Image ──▶ Upload ──▶ AI Analysis (multimodal) ──▶ Diagnosis + Confidence ──▶ Treatment Steps
 ```
 
-## 🛡️ Responsible AI Considerations
+##  Responsible AI Considerations
 
 | Principle | How it's addressed |
 |---|---|
@@ -67,24 +65,16 @@ ai-crop-disease-detection/
 └── README.md
 ```
 
-## 🎓 Target Users
+##  Target Users
 
 Small and marginal farmers, agricultural cooperatives, and extension workers who lack easy
 access to in-person crop disease diagnosis.
 
-## 📈 Expected Impact
+##  Expected Impact
 
 - Reduced crop loss through earlier detection
 - Lower input costs from targeted (not blanket) pesticide use
 - Reduced environmental harm from chemical overuse
 - Wider access to expert-level guidance for under-served farming communities
 
-## ⚠️ Disclaimer
 
-This is a student prototype built for educational purposes as part of the 1M1B AI for
-Sustainability Virtual Internship. It is **not a certified diagnostic tool** and should not
-replace advice from a qualified agricultural expert.
-
----
-
-*Built by [Your Name], [Your College Name] — 1M1B AI for Sustainability Virtual Internship.*
