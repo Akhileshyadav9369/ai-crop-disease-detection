@@ -20,7 +20,7 @@ yield, wasted pesticide spending, and avoidable environmental harm.
 - **Primary:** SDG 2 — Zero Hunger
 - **Secondary:** SDG 13 — Climate Action, SDG 15 — Life on Land
 
-## 🧠 How It Works
+##  How It Works
 
 1. User uploads a photo of a crop leaf.
 2. The image + a structured prompt is sent to a multimodal AI model (Claude).
