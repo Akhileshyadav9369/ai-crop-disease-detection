@@ -43,7 +43,7 @@ Leaf Image ──▶ Upload ──▶ AI Analysis (multimodal) ──▶ Diagnos
 | **Ethics** | Always recommends expert consultation for severe/persistent cases. |
 | **Privacy** | No personal or location data is stored; images are processed only for the current session. |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/<your-username>/ai-crop-disease-detection.git
@@ -55,7 +55,7 @@ streamlit run app.py
 
 Then open the local URL Streamlit prints (usually `http://localhost:8501`).
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-crop-disease-detection/
